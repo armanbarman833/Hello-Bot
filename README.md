@@ -1,6 +1,6 @@
 🤖 Hello-Bot (Machine Learning Project)
 
-[Yahan 1-2 line me likho ki aapka project kya kaam karta hai. For example: "Yeh ek Machine Learning application hai jo user se input lekar [Prediction/Classification] karta hai."]
+[Predict student marks based on study hours , sleep hours, and dedication level using Machine Learning]
 
 
 ---
